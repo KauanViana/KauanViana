@@ -5,6 +5,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanViana&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
+      <p align="center">
+    <img width="200em" height="200em" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png"><br>
+      </p>
   <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
