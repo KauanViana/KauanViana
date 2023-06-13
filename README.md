@@ -1,4 +1,4 @@
-### Hi, my name is Kauan Viana
+### Hi, my name is Kauan Viana and i'm a Freelance front-end programmer
 
 ##
 
