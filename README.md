@@ -4,7 +4,8 @@
 
 <p align="center">
     <img width="200em" height="200em" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png"><br>
-      </p>
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanViana&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
