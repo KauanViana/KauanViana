@@ -1,4 +1,4 @@
-### Hi, my name is Kauan Viana and i'm a Freelance front-end programmer
+### Hi, My Name is Kauan Viana and i'm a Freelance Front-End Programmer, Robot Enthusiast and GameDev
 
 ##
 
