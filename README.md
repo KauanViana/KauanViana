@@ -1,19 +1,25 @@
-### Hi, My Name is Kauan Viana and i'm a Freelance Front-End Programmer, Robot Enthusiast and GameDev
+## Hi There, My Name is Kauan Viana :)
+ I'm a Freelance Front-End Programmer, Robot Enthusiast and GameDev. I am:
+ - Graduated from a technical course in IT at Federal Institute of Bahia (IFBA)
+ - Currently studying a bachelor's degree in science and technology at the Federal University of ABC (UFABC)
+
+### There is some tools and languages that i have some knowledge 🛠️
+
+
+<div>
+    <img align="center" alt="Kauan-Gamemaker" height="30" width="30" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1653389763">
+    <img align="center" alt="Kauan-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Kauan-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Kauan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
 
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanViana&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block">
-  <img align="center" alt="Kauan-Gamemaker" height="30" width="30" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1653389763">
-  <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kauan-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kauan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Kauan-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-</div>
 
 ##
 
