@@ -1,5 +1,5 @@
 ## Hi There, My Name is Kauan Viana :)
- I'm a Freelance Front-End Programmer, Robot Enthusiast and GameDev. I am:
+ I'm a Freelance Front-End Programmer, Robot Enthusiast and GameDev. I am also:
  - Graduated from a technical course in IT at the Federal Institute of Bahia (IFBA)
  - Currently studying a bachelor's degree in science and technology at the Federal University of ABC (UFABC)
 
